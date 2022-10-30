@@ -14,7 +14,8 @@ pip freeze > requirements.txt
 
 uvicorn main:app --reload  <-- ejecuta el servidor
 
-
+conexion a la base de dato
+mysql+pymysql://USUARIOMysql:PASSWOR@localhost:3306/disqueria  <-- cambiar usuario y password
 
 COMANDOS cli base de datos:
 
