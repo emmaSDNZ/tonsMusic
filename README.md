@@ -17,7 +17,7 @@ uvicorn main:app --reload  <-- ejecuta el servidor
 
 
 COMANDOS cli base de datos:
-co
+
 mysql -u root -p
 create database disqueria;
 
